@@ -1,0 +1,7 @@
+{
+  "name": "alcaldesmapa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
